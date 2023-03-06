@@ -1,2 +1,2 @@
 # The-WPM-Calculator
- this phroject is developed by team reflex to caluclate words typed per minute
+ this project is developed by team reflex to calculate words typed per minute.
