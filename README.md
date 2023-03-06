@@ -1,3 +1,4 @@
 # The-WPM-Calculator
  this project is developed by team reflex to calculate words typed per minute.
-Although there are some problems on the log-in page, the project's homepage and other contents don't need any changing at all. This website calculates the words that a user types and displays the results. It also offers users advice on how to become more proficient at typing.
+
+This project has some editing need to be done for the log in page as it has some errors. The home page and the other related pages work perfectly fine. This website is designed to calculate the number of words typed by a user and gives the results such as words per minute,accuracy and characters per minute as well. It even provides tips for the users to improve their typing skills and accuracy
